@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Welcome to my GitHub!
 
-_Get started using GitHub in less than an hour._
 
 </header>
 
@@ -20,8 +19,10 @@ _Get started using GitHub in less than an hour._
 
 ## Finish
 
-_Congratulations, you've completed this course and joined the world of developers!_
+_this is amin! i am computer engineering student and i am learning to become a developer._
 
+i have some ideas which im working on them, they will be published here as soon as possible.
+<!--
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
 Here's a recap of your accomplishments:
@@ -47,13 +48,13 @@ Check out these resources to learn more or get involved:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+-->
 
-<footer>
+
 
 <!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+
+<footer>
 
 ---
 
@@ -62,3 +63,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+-->
