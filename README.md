@@ -17,8 +17,6 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
-
 _this is amin! i am computer engineering student and i am learning to become a developer._
 
 i have some ideas which im working on them, they will be published here as soon as possible.
